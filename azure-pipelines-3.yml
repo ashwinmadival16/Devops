@@ -10,7 +10,7 @@ pool:
   Default
 
 steps:
-- script: echo Hello, world!
+- script: echo Hello, world! I am the new iupdate
   displayName: 'Run a one-line script'
 
 - script: |
